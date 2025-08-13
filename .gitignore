@@ -11,3 +11,5 @@ wheels/
 data
 /src/runs
 /src/MNIST
+/src/cifar-10-batches-py
+src/cifar-10-python.tar.gz
