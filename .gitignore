@@ -13,3 +13,5 @@ data
 /src/MNIST
 /src/cifar-10-batches-py
 src/cifar-10-python.tar.gz
+/src/dataset_celebirity
+/src/bing_image_downloader
