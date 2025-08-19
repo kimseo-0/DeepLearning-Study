@@ -5,6 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "fastapi>=0.116.1",
+    "jinja2>=3.1.6",
     "jupyter>=1.1.1",
     "koreanize-matplotlib>=0.1.1",
     "matplotlib>=3.10.5",
@@ -16,4 +18,5 @@ dependencies = [
     "tensorboardx>=2.6.4",
     "torch-summary>=1.4.5",
     "tqdm>=4.67.1",
+    "uvicorn>=0.35.0",
 ]
