@@ -15,4 +15,3 @@ def view_img(tensor_image, title = "title"):
     plt.imshow(np.transpose(img_data, (1, 2, 0)))
     plt.title(title)
     plt.show()
-print("안녕")
